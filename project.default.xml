@@ -35,7 +35,6 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="/opt/Android/Sdk" />
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
@@ -97,7 +96,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
